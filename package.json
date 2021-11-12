@@ -1,6 +1,6 @@
 {
-  "name": "svelte-select-forked",
-  "version": "4.4.5",
+  "name": "@globaltechnology/svelte-select-forked",
+  "version": "4.4.6",
   "repository": "https://rob-balfre@github.com/rob-balfre/svelte-select.git",
   "description": "A <Select> component for Svelte apps",
   "svelte": "src/index.js",
