@@ -1,5 +1,5 @@
 {
-  "name": "svelte-select",
+  "name": "svelte-select-forked",
   "version": "4.4.4",
   "repository": "https://rob-balfre@github.com/rob-balfre/svelte-select.git",
   "description": "A <Select> component for Svelte apps",
