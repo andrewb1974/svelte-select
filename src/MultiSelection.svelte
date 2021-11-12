@@ -82,7 +82,7 @@
         on:click={(event) =>
             multiFullItemClearable ? handleClear(i, event) : {}}>
         <div class="multiSelectItem_label">
-            {@html getSelectionLabel(item)}
+            {getSelectionLabel(item)}
         </div>
         {#if !isDisabled && !multiFullItemClearable}
             <div

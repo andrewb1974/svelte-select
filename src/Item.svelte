@@ -77,5 +77,5 @@
 </style>
 
 <div class="item {itemClasses}">
-    {@html getOptionLabel(item, filterText)}
+    {getOptionLabel(item, filterText)}
 </div>
